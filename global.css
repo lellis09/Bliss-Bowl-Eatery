@@ -12,3 +12,35 @@ body {
   text-rendering: optimizeLegibility;
   hyphens: auto;
 }
+
+.background {
+  background-color: rgb(172, 238, 238);
+  height: auto;
+}
+
+.title-cont {
+  border: solid turquoise 2px;
+  padding: 0px 8px;
+  width:50%;
+  height: 300px;
+  
+}
+
+.title{
+  padding: 8px;
+}
+
+.img {
+  border: solid turquoise 2px;
+  width:50%;
+  height: 300px;
+  
+}
+
+.container {
+  border: solid salmon 2px;
+  height:auto;
+  display: flex;
+  position:relative;
+  
+}
