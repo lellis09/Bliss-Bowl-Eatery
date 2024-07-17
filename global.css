@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
+/* body {
   font-family: 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica',
     'Arial', sans-serif;
   margin: 0 auto;
@@ -15,9 +15,9 @@ body {
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
   hyphens: auto;
-}
+} */
 
-.background {
+/* .background {
   background-color: rgb(172, 238, 238);
   height: auto;
 }
@@ -47,4 +47,4 @@ body {
   display: flex;
   position:relative;
   
-}
+} */

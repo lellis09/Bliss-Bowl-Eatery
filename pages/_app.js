@@ -4,7 +4,7 @@ import Menu from '../components/Menu'
 
 export default function MyApp() {
   return(
-    <section>
+    <section className='bg-navy'>
       <Menu />
       <Hero />
       
